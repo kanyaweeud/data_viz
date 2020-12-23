@@ -4,4 +4,4 @@
 
 ตัวอย่างการแทรกรูป
 
-!.[kkulogo](KKUlogo.png)
+![kkulogo](KKUlogo.png)
